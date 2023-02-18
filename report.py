@@ -154,4 +154,4 @@ def update_graph(selected_commodity,selected_commodity2,selected_activity):
 # Step 5: Running the dashboard
 
 if __name__ == '__main__':
-    app.run_server(debug=False,host="0.0.0.0",port=8080)
+    app.run_server(debug=True)
