@@ -32,7 +32,7 @@ jsbeautifier==1.14.7
 MarkupSafe==2.1.1
 mistune==2.0.4
 more-itertools==8.14.0
-numpy==1.23.5
+
 openpyxl==3.0.10
 panda==0.3.1
 pandas==1.5.2
