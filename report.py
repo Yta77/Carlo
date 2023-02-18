@@ -16,6 +16,7 @@ df = data#.groupby(['Commodity'], as_index=False)
 # Step 2: Creo App
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.YETI, dbc.icons.BOOTSTRAP])
+server=app.server
 
 # Step 3: Definisco Dropdown
 
